@@ -1,0 +1,272 @@
+{
+  "counties": [
+    {
+      "id": 1,
+      "name": "Alachua"
+    },
+    {
+      "id": 2,
+      "name": "Baker"
+    },
+    {
+      "id": 3,
+      "name": "Bay"
+    },
+    {
+      "id": 4,
+      "name": "Bradford"
+    },
+    {
+      "id": 5,
+      "name": "Brevard"
+    },
+    {
+      "id": 6,
+      "name": "Broward"
+    },
+    {
+      "id": 7,
+      "name": "Calhoun"
+    },
+    {
+      "id": 8,
+      "name": "Charlotte"
+    },
+    {
+      "id": 9,
+      "name": "Citrus"
+    },
+    {
+      "id": 10,
+      "name": "Clay"
+    },
+    {
+      "id": 11,
+      "name": "Collier"
+    },
+    {
+      "id": 12,
+      "name": "Columbia"
+    },
+    {
+      "id": 13,
+      "name": "DeSoto"
+    },
+    {
+      "id": 14,
+      "name": "Dixie"
+    },
+    {
+      "id": 15,
+      "name": "Duval"
+    },
+    {
+      "id": 16,
+      "name": "Escambia"
+    },
+    {
+      "id": 17,
+      "name": "Flagler"
+    },
+    {
+      "id": 18,
+      "name": "Franklin"
+    },
+    {
+      "id": 19,
+      "name": "Gadsden"
+    },
+    {
+      "id": 20,
+      "name": "Gilchrist"
+    },
+    {
+      "id": 21,
+      "name": "Glades"
+    },
+    {
+      "id": 22,
+      "name": "Gulf"
+    },
+    {
+      "id": 23,
+      "name": "Hamilton"
+    },
+    {
+      "id": 24,
+      "name": "Hardee"
+    },
+    {
+      "id": 25,
+      "name": "Hendry"
+    },
+    {
+      "id": 26,
+      "name": "Hernando"
+    },
+    {
+      "id": 27,
+      "name": "Highlands"
+    },
+    {
+      "id": 28,
+      "name": "Hillsborough"
+    },
+    {
+      "id": 29,
+      "name": "Holmes"
+    },
+    {
+      "id": 30,
+      "name": "Indian River"
+    },
+    {
+      "id": 31,
+      "name": "Jackson"
+    },
+    {
+      "id": 32,
+      "name": "Jefferson"
+    },
+    {
+      "id": 33,
+      "name": "Lafayette"
+    },
+    {
+      "id": 34,
+      "name": "Lake"
+    },
+    {
+      "id": 35,
+      "name": "Lee"
+    },
+    {
+      "id": 36,
+      "name": "Leon"
+    },
+    {
+      "id": 37,
+      "name": "Levy"
+    },
+    {
+      "id": 38,
+      "name": "Liberty"
+    },
+    {
+      "id": 39,
+      "name": "Madison"
+    },
+    {
+      "id": 40,
+      "name": "Manatee"
+    },
+    {
+      "id": 41,
+      "name": "Marion"
+    },
+    {
+      "id": 42,
+      "name": "Martin"
+    },
+    {
+      "id": 43,
+      "name": "Miami-Dade"
+    },
+    {
+      "id": 44,
+      "name": "Monroe"
+    },
+    {
+      "id": 45,
+      "name": "Nassau"
+    },
+    {
+      "id": 46,
+      "name": "Okaloosa"
+    },
+    {
+      "id": 47,
+      "name": "Okeechobee"
+    },
+    {
+      "id": 48,
+      "name": "Orange"
+    },
+    {
+      "id": 49,
+      "name": "Osceola"
+    },
+    {
+      "id": 50,
+      "name": "Palm Beach"
+    },
+    {
+      "id": 51,
+      "name": "Pasco"
+    },
+    {
+      "id": 52,
+      "name": "Pinellas"
+    },
+    {
+      "id": 53,
+      "name": "Polk"
+    },
+    {
+      "id": 54,
+      "name": "Putnam"
+    },
+    {
+      "id": 55,
+      "name": "St. Johns"
+    },
+    {
+      "id": 56,
+      "name": "St. Lucie"
+    },
+    {
+      "id": 57,
+      "name": "Santa Rosa"
+    },
+    {
+      "id": 58,
+      "name": "Sarasota"
+    },
+    {
+      "id": 59,
+      "name": "Seminole"
+    },
+    {
+      "id": 60,
+      "name": "Sumter"
+    },
+    {
+      "id": 61,
+      "name": "Suwannee"
+    },
+    {
+      "id": 62,
+      "name": "Taylor"
+    },
+    {
+      "id": 63,
+      "name": "Union"
+    },
+    {
+      "id": 64,
+      "name": "Volusia"
+    },
+    {
+      "id": 65,
+      "name": "Wakulla"
+    },
+    {
+      "id": 66,
+      "name": "Walton"
+    },
+    {
+      "id": 67,
+      "name": "Washington"
+    }
+  ]
+}
